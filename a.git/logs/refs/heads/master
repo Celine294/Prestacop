@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 bf67f997de81a7ac0f8b10cd805e9a3c8b55f859 Florian Ernst <Flori@DESKTOP-4IBFL5Q.(none)> 1585399610 +0100	clone: from https://github.com/LeanaNeuber/PrestaCop.git
+bf67f997de81a7ac0f8b10cd805e9a3c8b55f859 48552caeb7d5540fac38d6f07534bc17f54b33e2 Florian Ernst <Flori@DESKTOP-4IBFL5Q.(none)> 1585659179 +0200	pull: Fast-forward
+48552caeb7d5540fac38d6f07534bc17f54b33e2 34a40f856842aff6ae7a81c1eb636cc94327bfa7 Florian Ernst <florianernst59@gmail.com> 1585675022 +0200	commit: Add Terraform to create the infrastructure
+34a40f856842aff6ae7a81c1eb636cc94327bfa7 f8e470d2b974bb30661d952a1e5afb4f82207bef Florian Ernst <florianernst59@gmail.com> 1585675036 +0200	pull: Merge made by the 'recursive' strategy.
+f8e470d2b974bb30661d952a1e5afb4f82207bef 9643f45951a3fc961d01797a02d65324b90a434c Florian Ernst <florianernst59@gmail.com> 1585746572 +0200	pull: Fast-forward
+9643f45951a3fc961d01797a02d65324b90a434c 773cff7b5f611d2de7178bf5d3bf9d8029dad75c Florian Ernst <florianernst59@gmail.com> 1586089296 +0200	pull: Fast-forward
+773cff7b5f611d2de7178bf5d3bf9d8029dad75c 75dfd82ce3645df49c7810ae0c4f1ed7e6a55a91 Florian Ernst <florianernst59@gmail.com> 1586098679 +0200	commit: Add assembly plugin to stream-to-storage, analysis and alert-system
+75dfd82ce3645df49c7810ae0c4f1ed7e6a55a91 ddc42f6cc6d2c25ab4cfd2186b1f67dc7dfb5fb9 Florian Ernst <florianernst59@gmail.com> 1586098697 +0200	commit: Add a way to start script into EC2 instances
+ddc42f6cc6d2c25ab4cfd2186b1f67dc7dfb5fb9 488f04307717d48b18e8a72f286e562ed7c829b0 Florian Ernst <florianernst59@gmail.com> 1586106468 +0200	commit: Added policies for AWS to recognize the EC2 instance
+488f04307717d48b18e8a72f286e562ed7c829b0 ea938c311ab6fcf36e057166c7517eb853960b6e Florian Ernst <florianernst59@gmail.com> 1586108500 +0200	commit: EC2 machines will automatically connect now - no need for creds
+ea938c311ab6fcf36e057166c7517eb853960b6e 1ef8b3e1f80ed5d07af65cc8205455d285d41b6d Florian Ernst <florianernst59@gmail.com> 1586108582 +0200	pull: Merge made by the 'recursive' strategy.
+1ef8b3e1f80ed5d07af65cc8205455d285d41b6d 756e628bba6ea8f8fa041789e7a2444e570a31c8 Florian Ernst <florianernst59@gmail.com> 1586108665 +0200	commit: Removed getCreds from alert system
+756e628bba6ea8f8fa041789e7a2444e570a31c8 06174a03ef31620a56654a8c98cf0b4fdff6ae5d Florian Ernst <florianernst59@gmail.com> 1586108909 +0200	commit: Fixed type mismatch in alert system
+06174a03ef31620a56654a8c98cf0b4fdff6ae5d a88f7ab8c8e032b894d9319bd3731cb41e70606c Florian Ernst <florianernst59@gmail.com> 1586108922 +0200	pull: Merge made by the 'recursive' strategy.
+a88f7ab8c8e032b894d9319bd3731cb41e70606c 29347c40d4f70da5f3a88b86dd8373e61ee75ffb Florian Ernst <florianernst59@gmail.com> 1586120331 +0200	commit: Added the alert system, and made sure that services won't stop randomly by putting them into screens
+29347c40d4f70da5f3a88b86dd8373e61ee75ffb 751e93de4449c5544c4834b0ddb468d914357f72 Florian Ernst <florianernst59@gmail.com> 1586123460 +0200	commit: Added a small "oeuf de Pâques"
+751e93de4449c5544c4834b0ddb468d914357f72 ed004a34379c92556633fa082a8cfc42b60d65a1 Florian Ernst <florianernst59@gmail.com> 1586124119 +0200	commit: Put a *frenchier* version of our easter egg
+ed004a34379c92556633fa082a8cfc42b60d65a1 5f3276752ef8e4eebcdfff22c37c124f761eaedc Florian Ernst <florianernst59@gmail.com> 1586183025 +0200	commit: Added dependencies
+5f3276752ef8e4eebcdfff22c37c124f761eaedc 2fb4e3461641342cbb4996a08f3a22aa8cf35593 Florian Ernst <florianernst59@gmail.com> 1586202841 +0200	pull: Fast-forward
+2fb4e3461641342cbb4996a08f3a22aa8cf35593 fd90eeb79f7976f1377bc02341e790b127522f77 Florian Ernst <florianernst59@gmail.com> 1586205627 +0200	pull: Fast-forward
+fd90eeb79f7976f1377bc02341e790b127522f77 8fd287672305a4dd996c149088691c1f8827fa2f Florian Ernst <florianernst59@gmail.com> 1586206255 +0200	commit: Merge changes*
+8fd287672305a4dd996c149088691c1f8827fa2f 4ff812ba565bab138e2ad77957e5d1e6e0c5a7b1 Florian Ernst <florianernst59@gmail.com> 1586206377 +0200	commit: panic attack
+4ff812ba565bab138e2ad77957e5d1e6e0c5a7b1 67824ae0afd4e0dbd657511d35e97fd882a15aa8 Florian Ernst <florianernst59@gmail.com> 1586206843 +0200	commit: MERGE CONFLITS
+67824ae0afd4e0dbd657511d35e97fd882a15aa8 2b29ff3930686f647e453eb16b6d6b8b0967ff65 Florian Ernst <florianernst59@gmail.com> 1586207421 +0200	pull: Fast-forward
+2b29ff3930686f647e453eb16b6d6b8b0967ff65 fe5cf251014a699cd80f5fbf555a0275be373ceb Florian Ernst <florianernst59@gmail.com> 1586207454 +0200	pull: Fast-forward
+fe5cf251014a699cd80f5fbf555a0275be373ceb 9dcba25be173fd6fc708d62e69175c7f54fa729f Florian Ernst <florianernst59@gmail.com> 1586207471 +0200	commit: Added - signs
+9dcba25be173fd6fc708d62e69175c7f54fa729f 3cfaffff89cce54cb1a48c758292534bfb030550 Florian Ernst <florianernst59@gmail.com> 1586208547 +0200	commit: Updated readme
+3cfaffff89cce54cb1a48c758292534bfb030550 3223bf70f3a33f32ba6616dc6d6ea25440bafffd Florian Ernst <florianernst59@gmail.com> 1586209734 +0200	commit: Final touch

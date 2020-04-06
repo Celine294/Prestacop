@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c498358fa87621c887ae0e8f7653b63faf8fe413 git stash <git@stash> 1585659175 +0200	WIP on master: bf67f99 Update readme with thoughts on terraform
+c498358fa87621c887ae0e8f7653b63faf8fe413 ef3a1786c50919cd2ddb11ce321ca762a398f7bb Florian Ernst <florianernst59@gmail.com> 1586102330 +0200	WIP on master: ddc42f6 Add a way to start script into EC2 instances
+ef3a1786c50919cd2ddb11ce321ca762a398f7bb 03c1be621db0e94f4210705f8ad6fb7f87628daf Florian Ernst <florianernst59@gmail.com> 1586202837 +0200	WIP on master: 5f32767 Added dependencies
+03c1be621db0e94f4210705f8ad6fb7f87628daf 32af50b5cb6682e2dc69d04d2ee7e40cca4a36f4 Florian Ernst <florianernst59@gmail.com> 1586205612 +0200	WIP on master: 2fb4e34 Trying out to fix the jar
