@@ -80,7 +80,7 @@ resource "aws_instance" "stream_to_storage" {
   depends_on = [aws_kinesis_stream.prestacop, aws_dynamodb_table.prestacop]
 
   // Execute commands on the instance once it is setup
-  user_data = "stream_to_storage.yml"
+  user_data = file("stream_to_storage.yml")
 
 
   // Used to connect to our EC2 instance
